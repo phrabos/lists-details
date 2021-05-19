@@ -1,0 +1,1058 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AnimalCross container renders a list of characters on the page 1`] = `
+<ul
+  aria-label="characters"
+>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e460"
+  >
+    <li>
+      <img
+        alt="Admiral"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/Admiral_NH.png/revision/latest?cb=20200802081138"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Admiral
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        bird
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e461"
+  >
+    <li>
+      <img
+        alt="Agent S"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/Agent_S_NH.png/revision/latest?cb=20200719092526"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Agent S
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        squirrel
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e462"
+  >
+    <li>
+      <img
+        alt="Agnes"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/Agnes_NH.png/revision/latest?cb=20200804230432"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Agnes
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        pig
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e463"
+  >
+    <li>
+      <img
+        alt="Al"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/Al_NH.png/revision/latest?cb=20200802150354"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Al
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        gorilla
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e464"
+  >
+    <li>
+      <img
+        alt="Alfonso"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/Alfonso_NH.png/revision/latest?cb=20200817164717"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Alfonso
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        alligator
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e465"
+  >
+    <li>
+      <img
+        alt="Alice"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/Alice_NH.png/revision/latest?cb=20200803181400"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Alice
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        koala
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e46c"
+  >
+    <li>
+      <img
+        alt="Ankha"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/Ankha_NH.png/revision/latest?cb=20200817172044"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Ankha
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        cat
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e46a"
+  >
+    <li>
+      <img
+        alt="Angus"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/Angus_NH.png/revision/latest?cb=20200802083758"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Angus
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        bull
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e466"
+  >
+    <li>
+      <img
+        alt="Alli"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/Alli_NH.png/revision/latest?cb=20200802061731"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Alli
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        alligator
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e46b"
+  >
+    <li>
+      <img
+        alt="Anicotti"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/8/80/Anicotti_NH.png/revision/latest?cb=20200802164003"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Anicotti
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        mouse
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e467"
+  >
+    <li>
+      <img
+        alt="Amelia"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/Amelia_NH.png/revision/latest?cb=20200817171545"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Amelia
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        eagle
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e46d"
+  >
+    <li>
+      <img
+        alt="Annalisa"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/f/f0/Annalisa_NH.png/revision/latest?cb=20200802063308"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Annalisa
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        anteater
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e46f"
+  >
+    <li>
+      <img
+        alt="Antonio"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/Antonio_NH.png/revision/latest?cb=20200802063352"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Antonio
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        anteater
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e46e"
+  >
+    <li>
+      <img
+        alt="Annalise"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/Annalise_NH.png/revision/latest?cb=20200802153943"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Annalise
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        horse
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e468"
+  >
+    <li>
+      <img
+        alt="Anabelle"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/d8/Anabelle_NH.png/revision/latest?cb=20200802063200"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Anabelle
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        anteater
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e470"
+  >
+    <li>
+      <img
+        alt="Apollo"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/Apollo_NH.png/revision/latest?cb=20200719092927"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Apollo
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        eagle
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e469"
+  >
+    <li>
+      <img
+        alt="Anchovy"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/Anchovy_NH.png/revision/latest?cb=20200802081231"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Anchovy
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        bird
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e471"
+  >
+    <li>
+      <img
+        alt="Apple"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/Apple_NH.png/revision/latest?cb=20200802151508"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Apple
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        hamster
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e472"
+  >
+    <li>
+      <img
+        alt="Astrid"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/Astrid_NH.png/revision/latest?cb=20200802154954"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Astrid
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        kangaroo
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e473"
+  >
+    <li>
+      <img
+        alt="Audie"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/Audie_NH.png/revision/latest?cb=20200829012735"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Audie
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        wolf
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e474"
+  >
+    <li>
+      <img
+        alt="Aurora"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/Aurora_NH.png/revision/latest?cb=20200202215217"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Aurora
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        penguin
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e476"
+  >
+    <li>
+      <img
+        alt="Avery"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/Avery_NH.png/revision/latest?cb=20200608222354"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Avery
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        eagle
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e475"
+  >
+    <li>
+      <img
+        alt="Ava"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/Ava_NH.png/revision/latest?cb=20200609055741"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Ava
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        chicken
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e47b"
+  >
+    <li>
+      <img
+        alt="Barold"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/Barold_NH.png/revision/latest?cb=20200802141140"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Barold
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        cub
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e47a"
+  >
+    <li>
+      <img
+        alt="Bangle"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/Bangle_NH.png/revision/latest?cb=20200803120044"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Bangle
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        tiger
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e478"
+  >
+    <li>
+      <img
+        alt="Baabara"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/Baabara_NH.png/revision/latest?cb=20200802165552"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Baabara
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        sheep
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e477"
+  >
+    <li>
+      <img
+        alt="Axel"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/0/09/Axel_NH.png/revision/latest?cb=20200802143912"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Axel
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        elephant
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e479"
+  >
+    <li>
+      <img
+        alt="Bam"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/Bam_NH.png/revision/latest?cb=20200802193153"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Bam
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        deer
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e47e"
+  >
+    <li>
+      <img
+        alt="Beau"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/Beau_NH.png/revision/latest?cb=20200817175346"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Beau
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        deer
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e47d"
+  >
+    <li>
+      <img
+        alt="Beardo"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/Beardo_NH.png/revision/latest?cb=20200802071854"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Beardo
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        bear
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e47c"
+  >
+    <li>
+      <img
+        alt="Bea"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/c2/Bea_NH.png/revision/latest?cb=20200802134136"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Bea
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        dog
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e47f"
+  >
+    <li>
+      <img
+        alt="Becky"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/Becky_NH.png/revision/latest?cb=20200802085807"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Becky
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        chicken
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e480"
+  >
+    <li>
+      <img
+        alt="Bella"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/c0/Bella_NH.png/revision/latest?cb=20200802164029"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Bella
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        mouse
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e481"
+  >
+    <li>
+      <img
+        alt="Benedict"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/3/3a/Benedict_NH.png/revision/latest?cb=20200802085907"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Benedict
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        chicken
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e483"
+  >
+    <li>
+      <img
+        alt="Bertha"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/Bertha_NH.png/revision/latest?cb=20200802152702"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Bertha
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        hippo
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e486"
+  >
+    <li>
+      <img
+        alt="Biff"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/9/9c/Biff_NH.png/revision/latest?cb=20200802152712"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Biff
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        hippo
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e482"
+  >
+    <li>
+      <img
+        alt="Benjamin"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/Benjamin_NH.png/revision/latest?cb=20200803113041"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Benjamin
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        dog
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e484"
+  >
+    <li>
+      <img
+        alt="Bettina"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/b/bd/Bettina_NH.png/revision/latest?cb=20200609061456"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Bettina
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        mouse
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e485"
+  >
+    <li>
+      <img
+        alt="Bianca"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/6/6f/Bianca_NH.png/revision/latest?cb=20200609061735"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Bianca
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        tiger
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e487"
+  >
+    <li>
+      <img
+        alt="Big Top"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/8/80/Big_Top_NH.png/revision/latest?cb=20200802143925"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Big Top
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        elephant
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e488"
+  >
+    <li>
+      <img
+        alt="Bill"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/c1/Bill_NH.png/revision/latest?cb=20200802142613"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Bill
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        duck
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e48b"
+  >
+    <li>
+      <img
+        alt="Bitty"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/Bitty_NH.png/revision/latest?cb=20200802152723"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Bitty
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        hippo
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e489"
+  >
+    <li>
+      <img
+        alt="Billy"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/2/26/Billy_NH.png/revision/latest?cb=20200802145715"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Billy
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        goat
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e48a"
+  >
+    <li>
+      <img
+        alt="Biskit"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/7/78/Biskit_NH.png/revision/latest?cb=20200817184441"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Biskit
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        dog
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e48c"
+  >
+    <li>
+      <img
+        alt="Blaire"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/Blaire_NH.png/revision/latest?cb=20200719092741"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Blaire
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        squirrel
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e48d"
+  >
+    <li>
+      <img
+        alt="Blanche"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/Blanche_NH.png/revision/latest?cb=20200817185132"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Blanche
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        ostrich
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e48f"
+  >
+    <li>
+      <img
+        alt="Bob"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/Bob_NH.png/revision/latest?cb=20200817185816"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Bob
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        cat
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e491"
+  >
+    <li>
+      <img
+        alt="Bones"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/2/2b/Bones_NH.png/revision/latest?cb=20200803113508"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Bones
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        dog
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e490"
+  >
+    <li>
+      <img
+        alt="Bonbon"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/Bonbon_NH.png/revision/latest?cb=20200321103645"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Bonbon
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        rabbit
+      </p>
+    </li>
+  </a>
+  <a
+    href="/characters/5f5fb4bbbfd05c2aed82e48e"
+  >
+    <li>
+      <img
+        alt="Bluebear"
+        src="https://vignette.wikia.nocookie.net/animalcrossing/images/4/49/Bluebear_NH.png/revision/latest?cb=20200817185619"
+        style="height: 200px;"
+      />
+      <p
+        style="margin: 0px;"
+      >
+        Bluebear
+      </p>
+      <p
+        style="margin: 0px;"
+      >
+        cub
+      </p>
+    </li>
+  </a>
+</ul>
+`;

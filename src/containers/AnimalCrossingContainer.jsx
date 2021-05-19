@@ -14,7 +14,6 @@ const AnimalCrossingContainer = () => {
       .finally(() => setLoading(false));
   }, []);
   
-  console.log(characters)
   if(loading) return <h1>Loading...</h1>;
   
   return (
