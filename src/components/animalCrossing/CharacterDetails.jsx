@@ -2,14 +2,14 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const CharacterDetails = ({ character }) => (
-  <>
+  <div data-testid="character-div">
     <img src={character.image} alt={character.name} />
     <p>{character.name}</p>
     <p>{character.quote}</p>
     <p>{character.personality}</p>
     <p>{character.species}</p>
     <p>{character.skill}</p>
-  </>
+  </div>
 );
 
 CharacterDetails.propTypes = {

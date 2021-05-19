@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DetailsContainer renders a list of characters on the page 1`] = `
+<div
+  data-testid="character-div"
+>
+  <img
+    alt="Admiral"
+    src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/Admiral_NH.png/revision/latest?cb=20200802081138"
+  />
+  <p>
+    Admiral
+  </p>
+  <p>
+    Only quitters give up.
+  </p>
+  <p>
+    cranky
+  </p>
+  <p>
+    bird
+  </p>
+  <p>
+    Writing about pickles
+  </p>
+</div>
+`;
