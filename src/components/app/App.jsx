@@ -24,7 +24,7 @@ export default function App() {
             render={(routerProps) => <AnimalCrossingContainer {...routerProps} />}
           />
           <Route
-            path="/animals/:id"
+            path="/characters/:id"
             exact
             render={(routerProps) => <DetailsContainer {...routerProps} />}
           />
