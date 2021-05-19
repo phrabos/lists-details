@@ -8,8 +8,8 @@ const Character = ({ image, name, species }) => (
       alt={name}
       style={{ height:'200px' }}
     />
-    <p>{name}</p>
-    <p>{species}</p>
+    <p style={{ margin:'0' }}>{name}</p>
+    <p style={{ margin:'0' }}>{species}</p>
   </>
 );
 

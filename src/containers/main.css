@@ -1,0 +1,22 @@
+.characterWrapper {
+  display: flex;
+  flex-wrap: wrap;
+
+  width: 100%;
+}
+ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+li{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  border: 1px solid salmon;
+  border-radius: 4px;
+  width: 200px;
+  background-color: lightgrey;
+}

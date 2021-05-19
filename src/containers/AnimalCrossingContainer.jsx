@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import CharacterList from '../components/animalCrossing/CharacterList';
 import { fetchAllCharacters } from '../services/apiUtils';
+import style from './main.css';
 
 
 const AnimalCrossingContainer = () => {
@@ -11,13 +12,15 @@ const AnimalCrossingContainer = () => {
     fetchAllCharacters(1)
       .then(setCharacters)
       .finally(() => setLoading(false));
-    console.log(characters);
   }, []);
-
+  
+  console.log(characters)
   if(loading) return <h1>Loading...</h1>;
-
+  
   return (
-    <CharacterList characters={characters}/>
+    <div className={style.characterWrapper}>
+      <CharacterList characters={characters}/>
+    </div>
   );
 };
 

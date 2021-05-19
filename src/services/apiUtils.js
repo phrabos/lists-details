@@ -14,7 +14,7 @@ export async function fetchSingleCharacter(id){
 }
 
 export async function fetchAllCharacters(page){
-  const res = await fetch(`https://ac-vill.herokuapp.com/villagers?page=${page}`);
+  const res = await fetch(`https://ac-vill.herokuapp.com/villagers?page=${page}&perPage=50`);
   const json = await res.json();
 
   return json.map((character) => {
